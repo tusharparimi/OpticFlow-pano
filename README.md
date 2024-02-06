@@ -7,7 +7,7 @@ This projects involves capturing panorama in real-time (similar to Iphone). Pano
 video- https://youtu.be/oXJVBkoywnw?si=fDvqVMI2mEljrtqs
 
 ### UI
-<img width="200" height="320" alt="image" src="https://github.com/tusharparimi/OpticFlow-pano/assets/93556280/0f8b341f-2c1c-4683-bc84-ff4127202f9a">
+<img width="400" height="300" alt="image" src="https://github.com/tusharparimi/OpticFlow-pano/assets/93556280/0f8b341f-2c1c-4683-bc84-ff4127202f9a">
 
 ### What Stitching looks like behind the scenes...
 SIFT features are extracted and matched for a pair of images. Then necessary perspective transformation is found from perspective of one image to another. One of the images is transformed using that transformation and then blended with the other images. This is done for all pairs.
