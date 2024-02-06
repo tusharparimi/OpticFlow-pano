@@ -4,6 +4,8 @@ This projects involves capturing panorama in real-time (similar to Iphone). Pano
 ### Results
 <img width="290" alt="image" src="https://github.com/tusharparimi/OpticFlow-pano/assets/93556280/a027ada3-6a79-48e4-b642-57cbb9201140">
 
+video- https://youtu.be/oXJVBkoywnw?si=fDvqVMI2mEljrtqs
+
 ### UI
 <img width="143" alt="image" src="https://github.com/tusharparimi/OpticFlow-pano/assets/93556280/0f8b341f-2c1c-4683-bc84-ff4127202f9a">
 
