@@ -2,7 +2,7 @@
 This projects involves capturing panorama in real-time (similar to Iphone). Panoramas are made by stiching a list of images captured (Using perspective transform and blending). Since a lot of images in the list to-stich a panorama makes the stiching slower, the idea is to use optical flow to detect a shift in camera(camera movement) and only select images after a constant shift. 
 
 ### Results
-<img width="290" alt="image" src="https://github.com/tusharparimi/OpticFlow-pano/assets/93556280/a027ada3-6a79-48e4-b642-57cbb9201140">
+<img width="500" height="250" alt="image" src="https://github.com/tusharparimi/OpticFlow-pano/assets/93556280/a027ada3-6a79-48e4-b642-57cbb9201140">
 
 video- https://youtu.be/oXJVBkoywnw?si=fDvqVMI2mEljrtqs
 
